@@ -5,7 +5,6 @@ public class Sales {
 	int[] arr = {23,45,67,-90,2};
 	
 	public void print() {
-		int sum=0;
 		for(int i=0;i<arr.length;i++)
 		{
 			sum+=arr[i];
